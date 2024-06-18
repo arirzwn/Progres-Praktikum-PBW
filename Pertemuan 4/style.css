@@ -1,0 +1,23 @@
+* {
+    font-family: 'Poppins';
+    /* border: 1px solid red; */
+
+}
+
+.heading-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0 20px 0;
+}
+
+.sub-heading {
+    display: flex;
+    width: 60%;
+    gap: 20px;
+
+}
+
+.kiri img {
+    width: 300px;
+    border-radius: 20px;
+}
